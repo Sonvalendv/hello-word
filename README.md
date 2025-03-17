@@ -4,12 +4,9 @@
 
 ℹ️ Sobre mí
 🎓 Estudiante de Programacion en la UTN (Universidad Tecnologica Nacional)
-🌍 Enamorado/a de la programación y la innovación
-📚 Siempre aprendiendo y creciendo
-🎂 19 años
-Argentino Contacto Sonvalen@outlook.es
+🎂 20 años
+Contacto Sonvalen@outlook.com.ar
 💻 Tecnologías y herramientas
-Lenguajes: HTML, CSS, C++
-Frameworks: Node.js
+Lenguajes: HTML, CSS, C++,C#,.NET
 Bases de datos: MySQL.
 Herramientas: Git, VS Code,Discord.
